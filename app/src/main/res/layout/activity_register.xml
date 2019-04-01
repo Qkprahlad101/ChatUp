@@ -54,13 +54,13 @@
             />
 
         <Button
+            android:id="@+id/tbn_register"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Register"
-            android:id="@+id/btn_register"
-            android:background="@color/colorPrimary"
             android:layout_marginTop="10dp"
-            android:textColor="#fff"/>
+            android:background="@color/colorPrimary"
+            android:text="Register"
+            android:textColor="#fff" />
 
     </LinearLayout>
 
